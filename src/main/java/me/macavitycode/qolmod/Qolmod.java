@@ -1,5 +1,7 @@
 package me.macavitycode.qolmod;
 
+import me.macavitycode.qolmod.block.ModBlocks;
+import me.macavitycode.qolmod.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -11,6 +13,9 @@ public class Qolmod implements ModInitializer {
 
     @Override
     public void onInitialize() {
-        LOGGER.info("\nHello from qolmmod\n");
+        LOGGER.info("Hello from " + MOD_ID);
+
+        ModItems.registerModItems();
+        ModBlocks.registerModBlocks();
     }
 }

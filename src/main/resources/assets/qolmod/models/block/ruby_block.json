@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "qolmod:block/ruby_block"
+  }
+}

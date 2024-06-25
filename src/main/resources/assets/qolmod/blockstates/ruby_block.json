@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "qolmod:block/ruby_block"
+    }
+  }
+}

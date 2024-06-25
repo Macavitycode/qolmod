@@ -5,11 +5,6 @@
 !gradle/
 !gradle/**
 
-!run/
-!run/**
-
-run/logs/*
-
 !src/
 !src/**
 
@@ -19,4 +14,5 @@ run/logs/*
 !gradlew.bat
 !LICENSE
 !settings.gradle
+!README.md
 
