@@ -22,6 +22,10 @@ The broad goals of this project are:
     - [ ] Graves
         - Basic graves on death with a timer, possibly with a boss battle
         - Inspiration: FireBall1725's Graves
+    - [ ] Ore finder
+        - Custom glasses or something similar in place of helmet to make finding
+          ores easier
+        - Inspiration: -
 
 
 - Client side components:
@@ -30,11 +34,14 @@ The broad goals of this project are:
           third person
         - adjustable zoom
         - Inspiration: henkelmax's Camera Utils
+    - [ ] Freecam
+        - Inspiration: Zergatul's Freecam
     - [ ] Generally more info
         - armour, health, food, saturation indicators
         - position, basic looking at block info, basic mob info
+        - Shulker previews
+        - Map previews
         - Inspirations: masady's MiniHUD and squeek502's AppleSkin
-
 
 - Explicit no-go:
     - While I plan to make some custom items, nothing to fundamentally change the

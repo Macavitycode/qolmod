@@ -1,5 +1,15 @@
 {
   "item.qolmod.ruby": "Ruby",
   "itemGroup.ruby": "Ruby Group",
-  "block.qolmod.ruby_block": "Ruby Block"
+  "block.qolmod.ruby_block": "Ruby Block",
+
+  "key.category.qolmod": "QoLmod key binds",
+
+  "key.qolmod.togglefreecam": "Toggle FreeCam",
+  "key.qolmod.freecamup": "Free Cam Up",
+  "key.qolmod.freecamdown": "Free Cam Down",
+  "key.qolmod.freecamleft": "Free Cam Left",
+  "key.qolmod.freecamright": "Free Cam Right",
+  "key.qolmod.freecamfront": "Free Cam Front",
+  "key.qolmod.freecamback": "Free Cam Back"
 }

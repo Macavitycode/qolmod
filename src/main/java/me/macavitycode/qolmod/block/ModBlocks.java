@@ -18,7 +18,6 @@ public class ModBlocks {
             new Block(Block.Settings.create()
                     .strength(50.0f, 1200.0f)
                     .requiresTool()
-                    .dropsNothing()
                     .sounds(BlockSoundGroup.AMETHYST_BLOCK)
                     .pistonBehavior(PistonBehavior.BLOCK)));
 
